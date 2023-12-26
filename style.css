@@ -1,13 +1,6 @@
-.imgcontainer {
-    width:800px;
-    height: 450px;
-}
-
-
-
 .imgresize {
-    width: auto;
-    height: auto;
+    width: 800px;
+    height: 450px;
     max-width: 100%;
 }
 
