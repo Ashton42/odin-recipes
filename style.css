@@ -1,5 +1,29 @@
-.proportional {
+.imgresize {
     width: 800px;
     height: 450px;
 }
+
+body {
+    font-size: x-large
+}
+
+#homefont {
+    font-size: xx-large;
+}
+
+
+
+
+
+
+
+
+
+/* Re-active alignment when i figure oout how to center the lists properly
+
+body {
+    text-align: center;
+}
+
+*/
 
