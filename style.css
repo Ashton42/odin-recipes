@@ -1,10 +1,16 @@
+
+
+
+
+
 .imgresize {
     width: 800px;
     height: 450px;
 }
 
 body {
-    font-size: x-large
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: x-large;
 }
 
 #homefont {
