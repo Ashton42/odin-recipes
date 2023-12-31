@@ -1,23 +1,33 @@
+* {
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+    background-color: #00ffff;
+    box-sizing: border-box;
+}
+
 img {
     max-width: 100%;
     height: auto;
 }
 
-body {
-    font-family: Arial, Verdana, Helvetica, sans-serif;
-    font-size: x-large;
-    background-color: #00ffff;
+body{
+       font-size: x-large;
+       border: 4px solid black;
+       margin: 10px
 }
 
-#homefont {
+.img-container {
+    margin: 10px;
+}
+
+#homebody {
     font-size: xx-large;
 }
 
-/* Re-active alignment when i figure oout how to center the lists and images properly
-
-body {
+body, .list-container {
     text-align: center;
 }
 
-*/
-
+.center-list {
+    display: inline-block;
+    text-align:left;
+}
