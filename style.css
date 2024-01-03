@@ -38,7 +38,7 @@ body, .list-container {
 .list-container {
     border: 5px solid black;
     max-width: 100%;
-    display: inline-flex;
+    display: inline-block;
     margin: 50px;
     margin-left: 25px;
     margin-right: 25px;
@@ -53,5 +53,4 @@ body, .list-container {
 
 .back {
     display: block;
-
 }
