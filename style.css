@@ -1,9 +1,17 @@
 * {
     font-family: Arial, Verdana, Helvetica, sans-serif;
-    background-color: #FF0065;
-    box-sizing: border-box;
+    background-color: #FF0065; 
 }
 
+html {
+    box-sizing: border-box;
+  }
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+  }
+  
 img {
     max-width: 100%;
     height: auto;
