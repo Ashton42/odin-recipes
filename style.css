@@ -35,7 +35,19 @@ body, .list-container {
     text-align: center;
 }
 
+.list-container {
+    border: 5px solid black;
+    width: 600px;
+    display: inline-flex;
+    margin-bottom: 50px;
+}
+
 .center-list {
     display: inline-block;
     text-align:left;
+
+}
+
+.back {
+    display: block;
 }
