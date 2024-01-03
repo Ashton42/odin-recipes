@@ -37,9 +37,12 @@ body, .list-container {
 
 .list-container {
     border: 5px solid black;
-    width: 600px;
+    max-width: 100%;
     display: inline-flex;
-    margin-bottom: 50px;
+    margin: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-right: 16px;
 }
 
 .center-list {
@@ -50,4 +53,5 @@ body, .list-container {
 
 .back {
     display: block;
+
 }
