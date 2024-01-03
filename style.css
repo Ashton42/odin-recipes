@@ -31,7 +31,7 @@ body{
     font-size: xx-large;
 }
 
-body, .list-container {
+body {
     text-align: center;
 }
 
@@ -48,7 +48,6 @@ body, .list-container {
 .center-list {
     display: inline-block;
     text-align:left;
-
 }
 
 .back {
