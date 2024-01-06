@@ -1,16 +1,8 @@
 * {
     font-family: Arial, Verdana, Helvetica, sans-serif;
-    background-color: #FF0065; 
-}
-
-html {
+    background-color: #FF0065;
     box-sizing: border-box;
-  }
-  *,
-  *::before,
-  *::after {
-    box-sizing: inherit;
-  }
+}
   
 img {
     max-width: 100%;
@@ -18,31 +10,23 @@ img {
 }
 
 body{
-       font-size: x-large;
-       border: 4px solid black;
-       margin: 10px
-}
-
-.img-container {
+    font-size: x-large;
+    border: 5px solid black;
     margin: 10px;
+    text-align: center;
+    padding: 10px;
 }
 
 #homebody {
     font-size: xx-large;
 }
 
-body {
-    text-align: center;
-}
-
 .list-container {
     border: 5px solid black;
     width: 600px;
     max-width: 80%;
-    display: inline-block;
-    margin: 50px;
-    margin-left: 25px;
-    margin-right: 25px;
+    display: block;
+    margin: 50px auto;
     text-align: left;
     background-color: #b36ea1;
     padding: 20px
