@@ -24,12 +24,17 @@ body{
 .list-container {
     border: 5px solid black;
     width: 600px;
-    max-width: 80%;
+    max-width: 100%;
     display: block;
     margin: 50px auto;
     text-align: left;
     background-color: #b36ea1;
     padding: 20px
+}
+
+.list-container * {
+    background-color: #b36ea1;
+    margin:auto
 }
 
 .back {
@@ -43,12 +48,7 @@ h3 {
     font-size: 32px;
 }
 
-.list-container * {
-    word-wrap: break-word;
-    background-color: #b36ea1;
-    margin: auto
-}
-
 p {
     margin-bottom: 80px
 }
+
