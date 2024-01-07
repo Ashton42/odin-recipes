@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 
-html {
+html, body {
     background-color: #141414;
 }
   
@@ -13,7 +13,7 @@ img {
     border-radius: 15px;
 }
 
-body{
+.wrapper {
     font-size: x-large;
     border: 5px solid black;
     margin: 10px;
@@ -21,7 +21,6 @@ body{
     padding: 10px;
     border-radius: 15px;
     background-color: #00ccff;
-
 }
 
 #homebody {
