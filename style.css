@@ -1,6 +1,5 @@
 * {
     font-family: Arial, Verdana, Helvetica, sans-serif;
-    background-color: #00ccff;
     box-sizing: border-box;
 }
 
@@ -17,10 +16,12 @@ img {
 body{
     font-size: x-large;
     border: 5px solid black;
-    margin: 25px;
+    margin: 10px;
     text-align: center;
     padding: 10px;
     border-radius: 15px;
+    background-color: #00ccff;
+
 }
 
 #homebody {
